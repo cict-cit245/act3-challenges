@@ -1,0 +1,32 @@
+                    Metadata of 'Letter-to-Parents-2024.pdf'                    
+
+Creation time: 2024-09-21 15:42:10.576456
+
+Modification time: 2024-09-21 15:42:10.860956
+
+Access time: 2024-09-25 13:38:53.690634
+
+File mode: 33206
+
+File inode: 5910974511260432
+
+Device ID: 4266748766
+
+Number of hard links: 1
+
+Owner User ID: 0
+
+Group ID: 0
+
+File Size: 276363
+
+Is a symlink: False
+
+Absolute Path: C:\Users\jaszline\Downloads\Letter-to-Parents-2024.pdf
+
+File exists: True
+
+Parent directory: C:\Users\jaszline\Downloads
+
+Parent directory: C:\Users\jaszline\Downloads | File name: Letter-to-Parents-2024.pdf
+
