@@ -1,0 +1,41 @@
+
++=====================================================+
+|         *** FILESYSTEM METADATA REPORT ***          |
++=====================================================+
+
+   📄 File: Floaters.py
+   ⏱  Generated On: 2024-09-25 15:19:13.894538
+   📂 File Path: C:\Users\End User\Downloads\act4-challenges-main\act4-challenges-main\CHALLENGE_1\Floaters.py
+
++-----------------------------------------------------+
+|              +++ METADATA DETAILS +++               |
++-----------------------------------------------------+
+
+➤ Timestamps:
+   └─ Created:          2024-09-24 17:02:04
+   └─ Modified:         2024-09-25 13:42:37.867355
+   └─ Accessed:         2024-09-25 13:55:40.028256
+
+➤ Permissions & Links:
+   └─ File Mode:        0o100666
+   └─ Number of Links:  1
+
+➤ Ownership & Size:
+   └─ Owner UID:        0
+   └─ Group GID:        0
+   └─ File Size:        162 bytes
+
+➤ File System Details:
+   └─ Inode Number:     25614222880861214
+   └─ Device ID:        4056774445477303666
+
+➤ Path & Existence:
+   └─ Absolute Path:    C:\Users\End User\Downloads\act4-challenges-main\act4-challenges-main\CHALLENGE_1\Floaters.py
+   └─ Is Symlink:       False
+   └─ File Exists:      True
+   └─ Parent Directory: C:\Users\End User\Downloads\act4-challenges-main\act4-challenges-main\CHALLENGE_1
+   └─ File Name:        Floaters.py
+
++-----------------------------------------------------+
+|               *** END OF REPORT ***                 |
++=====================================================+
