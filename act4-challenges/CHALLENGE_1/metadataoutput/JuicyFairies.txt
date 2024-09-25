@@ -1,0 +1,15 @@
+Creation time: 2024-09-21 11:24:39.511695
+Modification time: 2024-09-22 16:35:00.841940
+Access time: 2024-09-25 08:10:34.044614
+File mode: 33206
+File inode: 7881299348512489
+Device ID: 4266748766
+Number of hard links: 1
+Owner User ID: 0
+Group ID: 0
+File Size: 468730
+Is a symlink: False
+Absolute Path: C:\Users\jaszline\Downloads\wvsu-osa-soi-02-f02-Parents-Waiver.pdf
+File exists: True
+Parent directory: C:\Users\jaszline\Downloads
+Parent directory: C:\Users\jaszline\Downloads | File name: wvsu-osa-soi-02-f02-Parents-Waiver.pdf
