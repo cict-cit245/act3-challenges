@@ -1,8 +1,11 @@
 """
-Team Name
+JUICY FAIRIES
 ==========================================
-Team Members Here
+ALTERAN, MAE ELA GRACE
+DELARIARTE, RJ
+SOBREVEGA, JASZLINE KAYE
+TROMPETA, KYLA JOY
 """
 
 
-print("Example Only")
+print("KAMI PA, SUS")
