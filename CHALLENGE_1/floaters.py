@@ -4,9 +4,9 @@ from datetime import datetime as dt
 import os
 import sys
 
-__authors__ = ["Dignomo", "Porado", "Sumalapao", "Wong"]
+__authors__ = ["Beryl John Dignomo", "Renilyn Grace Porado", "Merry Kris Sumalapao", "Thea Joy Wong"]
 __date__ = "2024-09-25"
-__description__ = "Gather filesystem metadata of provided file and store it in a well-formatted text file."
+__description__ = "Gather filesystem metadata of provided file"
 
 # Set up argument parsing
 parser = argparse.ArgumentParser(
